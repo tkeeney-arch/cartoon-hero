@@ -11,7 +11,7 @@ header{
  	text-align: center;
 }
 
-h1, h2 {
+h1, h2, h3 {
 	font-family: 'Space Grotesk', sans-serif;
 }
 
@@ -53,6 +53,8 @@ a:hover{
 	color: white;
 	background-color: #483a94;
 }
+
+
 
 footer{
 	background-image: url(../img/space.jpg);
