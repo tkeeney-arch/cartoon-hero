@@ -8,16 +8,17 @@ body{
 header{
 	background-color: darkred;
 	text-align: center;
-
 }
 
 h1, h2 {
 	font-family: 'Space Grotesk', sans-serif;
 }
 
+/* header styles */
+
 header h1{
-	color: white;
-	font-size: 50px;
+	color: black;
+	font-size: 50pxz;
 
 }
 
@@ -30,11 +31,12 @@ header img{
 main{
 	max-width: 800px;
 	margin: 0 auto;
-	padding: 20px;
+	padding: 0 20px;
 }
 
 main img{
 	max-width: 100%;
+
 }
 
 h2{
@@ -75,3 +77,4 @@ p.caption{
 	font-style: italic;
 	margin-top: 0;
 }
+
