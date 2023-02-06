@@ -1,11 +1,10 @@
 body{
-		
 	margin: 0px;
- 	 font-family: "Helvetica", "Arial", sans-serif;
- 	 font-size: 20px;
- 	 line-height: 30px;
- 	 background-color: gray;
- 	 }
+ 	font-family: "Helvetica", "Arial", sans-serif;
+ 	font-size: 20px;
+ 	line-height: 30px;
+ 	background-color: gray;
+ 	}
 
 header{
 	padding-top: 10px;
@@ -20,10 +19,8 @@ h1, h2, h3 {
 /* header styles */
 
 header h1{
-	
 	color: purple;
 	font-size: 50pxz;
-
 }
 
 header img{
@@ -40,7 +37,6 @@ main{
 
 main img{
 	max-width: 100%;
-
 }
 
 h2{
@@ -52,6 +48,7 @@ h2{
 a{
 	color: purple;
 }
+
 a:hover{
 	color: white;
 	background-color: #483a94;
@@ -79,7 +76,7 @@ footer a:hover{
 }
 
 p.caption{
-	color: purple;
+	color: black;
 	font-style: italic;
 	margin-top: 0;
 }
