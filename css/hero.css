@@ -1,5 +1,6 @@
-body{	
-	margin: 0;
+body{
+		
+	margin: 0px;
  	 font-family: "Helvetica", "Arial", sans-serif;
  	 font-size: 20px;
  	 line-height: 30px;
@@ -7,6 +8,7 @@ body{
  	 }
 
 header{
+	padding-top: 10px;
 	background-image: url(../img/space.jpg);
  	text-align: center;
 }
@@ -18,6 +20,7 @@ h1, h2, h3 {
 /* header styles */
 
 header h1{
+	
 	color: purple;
 	font-size: 50pxz;
 
